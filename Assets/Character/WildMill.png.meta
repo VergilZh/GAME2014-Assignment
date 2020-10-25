@@ -1,7 +1,55 @@
 fileFormatVersion: 2
 guid: b4ab195f3ba9cb04fa9c6b4c167e73c5
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 78442034990932236
+    second: WildMill_0
+  - first:
+      213: 3206446572288462088
+    second: WildMill_1
+  - first:
+      213: 3880239211115250443
+    second: WildMill_2
+  - first:
+      213: -6340592419657117355
+    second: WildMill_3
+  - first:
+      213: 2914847596106547895
+    second: WildMill_4
+  - first:
+      213: 4607569008016066101
+    second: WildMill_5
+  - first:
+      213: 5960807737336926035
+    second: WildMill_6
+  - first:
+      213: -8674007459229155980
+    second: WildMill_7
+  - first:
+      213: 1326352280261484480
+    second: WildMill_0
+  - first:
+      213: -3602301067376587638
+    second: WildMill_1
+  - first:
+      213: 4239248023840191810
+    second: WildMill_2
+  - first:
+      213: -3940391749299509500
+    second: WildMill_3
+  - first:
+      213: -709442295186009591
+    second: WildMill_4
+  - first:
+      213: -1088050963350889981
+    second: WildMill_5
+  - first:
+      213: -1798541183582378384
+    second: WildMill_6
+  - first:
+      213: 3664023484540950588
+    second: WildMill_7
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -32,7 +80,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -41,7 +89,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -73,9 +121,225 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: WildMill_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 150
+        width: 141
+        height: 101
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfd3002f56286210800000000000000
+      internalID: 1326352280261484480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildMill_1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 188
+        width: 135
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c0209d34e020ec0800000000000000
+      internalID: -3602301067376587638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildMill_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 221
+        width: 31
+        height: 31
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24575cffd95d4da30800000000000000
+      internalID: 4239248023840191810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildMill_3
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 150
+        width: 127
+        height: 101
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4076f13c49ae059c0800000000000000
+      internalID: -3940391749299509500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildMill_4
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 187
+        width: 64
+        height: 26
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902dcc6cdfd8726f0800000000000000
+      internalID: -709442295186009591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildMill_5
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 37
+        width: 35
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ad2ffd96776e0f0800000000000000
+      internalID: -1088050963350889981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildMill_6
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 116
+        width: 135
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07669a6925c4a07e0800000000000000
+      internalID: -1798541183582378384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildMill_7
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 25
+        width: 154
+        height: 115
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3890c442f939d230800000000000000
+      internalID: 3664023484540950588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
