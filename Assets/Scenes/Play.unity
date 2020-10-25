@@ -3023,7 +3023,7 @@ MonoBehaviour:
   speed: 10
   XBoundary: 9.7
   YBoundary: 3.1
-  health: 3
+  health: 5
   HealthNumber: {fileID: 1490656745}
   rigidBody: {fileID: 1906772385}
 --- !u!61 &1906772384
